@@ -19,8 +19,8 @@ $sql = mysql_query("SELECT * FROM users ORDER BY id ASC");
 
 <tr>
 <th>Name</th>
-<th>Email</th>
 <th>Gender</th>
+<th>Email</th>
 <tr>
 
 <?php
